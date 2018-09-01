@@ -6,7 +6,7 @@ In `original` branch you will find the original source code for this application
 
 ## Description 
 
-A simple example about how you can build a rest api with WCF. Since several years ago WebAPI is the .NET default option to create a REST api but at that time, even when WebAPI RTM was released in 2012, a client wanted to create a REST api based on WCF.
+A simple example about how you can build a rest api with WCF. Since several years ago WebAPI is the .NET default option to create a REST api but at that time, even when WebAPI RTM was released in 2012, a client insisted to create a REST api based on WCF.
 
 ## Screenshot
 
