@@ -4,6 +4,8 @@ A WCF Test REST API from 2014
 
 In `original` branch you will find the original source code for this application. In `master` an upgraded, refactored version.
 
+> More details about why I published this project in [this blog post](https://mamcer.github.io/2018-09-02-i-cleaned-up-my-virtual-basement/)
+
 ## Description 
 
 A simple example about how you can build a rest api with WCF. Since several years ago WebAPI is the .NET default option to create a REST api but at that time, even when WebAPI RTM was released in 2012, a client insisted to create a REST api based on WCF.
